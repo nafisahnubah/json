@@ -1,0 +1,82 @@
+[
+    {
+        "img": "../src/assets/player1.jpg",
+        "name": "Virat Kohli",
+        "country": "India",
+        "position": "Batsman",
+        "price": 15000,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "img": "../src/assets/player2.jpg",
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "position": "Batsman",
+        "price": 12000,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "img": "../src/assets/player3.jpg",
+        "name": "Ben Stokes",
+        "country": "England",
+        "position": "All-rounder",
+        "price": 18000,
+        "batting_style": "Left-hand bat"
+    },
+    {
+        "img": "../src/assets/player4.jpg",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "position": "Batsman",
+        "price": 11000,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "img": "../src/assets/player5.jpg",
+        "name": "Rohit Sharma",
+        "country": "India",
+        "position": "Batsman",
+        "price": 13000,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "img": "../src/assets/player6.jpg",
+        "name": "David Warner",
+        "country": "Australia",
+        "position": "Batsman",
+        "price": 14000,
+        "batting_style": "Left-hand bat"
+    },
+    {
+        "img": "../src/assets/player7.jpg",
+        "name": "Joe Root",
+        "country": "England",
+        "position": "Batsman",
+        "price": 10000,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "img": "../src/assets/player8.jpg",
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "position": "Wicketkeeper-Batsman",
+        "price": 9000,
+        "batting_style": "Left-hand bat"
+    },
+    {
+        "img": "../src/assets/player9.jpg",
+        "name": "Steve Smith",
+        "country": "Australia",
+        "position": "Batsman",
+        "price": 16000,
+        "batting_style": "Right-hand bat"
+    },
+    {
+        "img": "../src/assets/player10.jpg",
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "position": "All-rounder",
+        "price": 12000000,
+        "batting_style": "Left-hand bat"
+    }
+]
