@@ -1,6 +1,6 @@
 [
       {
-        "product_id": "SP1001",
+        "product_id": "1001",
         "product_title": "Galaxy S21",
         "product_image": "https://example.com/galaxy_s21.jpg",
         "category": "Smartphones",
@@ -16,7 +16,7 @@
         "rating": 4.5
       },
       {
-        "product_id": "SP1002",
+        "product_id": "1002",
         "product_title": "iPhone 13 Pro",
         "product_image": "https://example.com/iphone_13_pro.jpg",
         "category": "Smartphones",
@@ -32,7 +32,7 @@
         "rating": 4.8
       },
       {
-        "product_id": "SP1003",
+        "product_id": "1003",
         "product_title": "OnePlus 9",
         "product_image": "https://example.com/oneplus_9.jpg",
         "category": "Smartphones",
@@ -48,7 +48,7 @@
         "rating": 4.3
       },
       {
-        "product_id": "SP1004",
+        "product_id": "1004",
         "product_title": "Pixel 6",
         "product_image": "https://example.com/pixel_6.jpg",
         "category": "Smartphones",
@@ -64,7 +64,7 @@
         "rating": 4.6
       },
       {
-        "product_id": "SP1005",
+        "product_id": "1005",
         "product_title": "Xiaomi Mi 11",
         "product_image": "https://example.com/mi_11.jpg",
         "category": "Smartphones",
@@ -80,7 +80,7 @@
         "rating": 4.4
       },
       {
-        "product_id": "SP1006",
+        "product_id": "1006",
         "product_title": "Sony Xperia 5 III",
         "product_image": "https://example.com/xperia_5_iii.jpg",
         "category": "Smartphones",
@@ -96,7 +96,7 @@
         "rating": 4.2
       },
       {
-        "product_id": "LP2001",
+        "product_id": "2001",
         "product_title": "MacBook Air M1",
         "product_image": "https://example.com/macbook_air_m1.jpg",
         "category": "Laptops",
@@ -112,7 +112,7 @@
         "rating": 4.9
       },
       {
-        "product_id": "LP2002",
+        "product_id": "2002",
         "product_title": "Dell XPS 13",
         "product_image": "https://example.com/dell_xps_13.jpg",
         "category": "Laptops",
@@ -128,7 +128,7 @@
         "rating": 4.7
       },
       {
-        "product_id": "SW3001",
+        "product_id": "3001",
         "product_title": "Apple Watch Series 7",
         "product_image": "https://example.com/apple_watch_series_7.jpg",
         "category": "Smartwatches",
@@ -144,7 +144,7 @@
         "rating": 4.6
       },
       {
-        "product_id": "SW3002",
+        "product_id": "3002",
         "product_title": "Samsung Galaxy Watch 4",
         "product_image": "https://example.com/galaxy_watch_4.jpg",
         "category": "Smartwatches",
