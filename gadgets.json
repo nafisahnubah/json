@@ -1,5 +1,4 @@
-{
-    "products": [
+[
       {
         "product_id": "SP1001",
         "product_title": "Galaxy S21",
@@ -161,5 +160,4 @@
         "rating": 4.5
       }
     ]
-  }
   
