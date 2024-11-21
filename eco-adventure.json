@@ -86,7 +86,7 @@
     "categoryName": "Wildlife Safaris",
     "shortDescription": "An immersive safari experience focused on observing wildlife in their natural habitat.",
     "adventureCost": "$300",
-    "bookingAvailability": true,
+    "bookingAvailability": false,
     "location": "Serengeti National Park, Tanzania",
     "duration": "2 Days",
     "adventureLevel": "Beginner",
