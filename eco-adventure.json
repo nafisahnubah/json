@@ -22,7 +22,7 @@
   {
     "id": 2,
     "adventureTitle": "Highland Escape",
-    "image": "highland_trek_image.jpg",
+    "image": "https://cdn.britannica.com/54/155954-050-6568A963/massif-Mount-Everest-Himalayas-Nepal.jpg",
     "categoryName": "Mountain Treks",
     "shortDescription": "Discover the untouched beauty of high-altitude trails with expert guides.",
     "adventureCost": "$300",
@@ -42,7 +42,7 @@
   {
     "id": 3,
     "adventureTitle": "Deep Blue Dive",
-    "image": "ocean_dive_image.jpg",
+    "image": "https://cdn.britannica.com/64/155864-050-34FBD7A2/view-Great-Barrier-Reef-Australia-coast.jpg",
     "categoryName": "Ocean Dives",
     "shortDescription": "Explore vibrant coral reefs and marine life in a sustainable underwater adventure.",
     "adventureCost": "$400",
@@ -62,7 +62,7 @@
   {
     "id": 4,
     "adventureTitle": "Ocean Explorer Dive",
-    "image": "ocean_explorer_image.jpg",
+    "image": "https://afar.brightspotcdn.com/dims4/default/5896a05/2147483647/strip/false/crop/3000x2247+0+0/resize/1486x1113!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fb2%2Ff4%2F9a1ebe3f427f8e5eb937f8df8998%2Ftravelguides-maldives-videomediastudioeurope-shutterstock.jpg",
     "categoryName": "Ocean Dives",
     "shortDescription": "Dive deep into the uncharted waters to discover unique marine life and underwater caves.",
     "adventureCost": "$450",
@@ -82,7 +82,7 @@
   {
     "id": 5,
     "adventureTitle": "Wildlife Safari Escape",
-    "image": "wildlife_safari_image.jpg",
+    "image": "https://www.serengeti.com/assets/img/bush-walk-serengeti-national-park.jpg",
     "categoryName": "Wildlife Safaris",
     "shortDescription": "An immersive safari experience focused on observing wildlife in their natural habitat.",
     "adventureCost": "$300",
